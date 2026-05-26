@@ -32,8 +32,8 @@ author_profile: true
     <a href="https://qgis.org/"
        target="_blank"
        rel="noopener noreferrer">
-       QGIS
-    </a>,
+       QGIS,
+    </a>
     <a href="https://www.accessmod.org/"
        target="_blank"
        rel="noopener noreferrer">
@@ -46,13 +46,13 @@ author_profile: true
     <a href="https://datastudio.google.com/"
        target="_blank"
        rel="noopener noreferrer">
-       Data Studio
-    </a>,
+       Data Studio,
+    </a>
     <a href="http://grafana.com/grafana/dashboards/"
        target="_blank"
        rel="noopener noreferrer">
-       Grafana Dashboards
-    </a>,
+       Grafana Dashboards,
+    </a>
     <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview"
        target="_blank"
        rel="noopener noreferrer">
@@ -65,13 +65,13 @@ author_profile: true
     <a href="https://www.kobotoolbox.org/"
        target="_blank"
        rel="noopener noreferrer">
-       KoboToolbox
-    </a>,
+       KoboToolbox,
+    </a>
     <a href="https://ona.io/"
        target="_blank"
        rel="noopener noreferrer">
-       Ona Data
-    </a>,
+       Ona Data,
+    </a>
     <a href="https://workspace.google.com/products/forms/"
        target="_blank"
        rel="noopener noreferrer">
@@ -84,8 +84,8 @@ author_profile: true
     <a href="https://dhis2.org/"
        target="_blank"
        rel="noopener noreferrer">
-       DHIS2
-    </a>,
+       DHIS2,
+    </a>
     <a href="https://msupply.org.nz/"
        target="_blank"
        rel="noopener noreferrer">
