@@ -14,7 +14,7 @@ author_profile: true
     <li>Geo-registry implementation and master list development</li>
     <li>Dashboard development</li>
     <li>Data collection and analysis</li>
-    <li>Physical accessibility analyses</li>
+    <li>Spatial analysis and cartography</li>
     <li>Health information systems</li>
 </ul>
 

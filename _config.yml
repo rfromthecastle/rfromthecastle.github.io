@@ -19,12 +19,12 @@ author:
   bio: "GIS & Digital Health Specialist"
   location: "Tongeren-Borgloon, Belgium"
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/rica-duchateau/"
     - label: "rica.duchateau@gmail.com"
       icon: "fa-solid fa-envelope"
       url: "mailto:rica.duchateau@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rica-duchateau/"
 
 atom_feed:
   hide: true
