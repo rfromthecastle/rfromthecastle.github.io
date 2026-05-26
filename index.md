@@ -15,8 +15,8 @@ author_profile: true
 
 ## What tools do I know quite a bit about?
 
-- Geo-registries: GeoPrism Registry
-- GIS: QGIS, AccessMod
-- Dashboards: Google Data Studio, Grafana, ArcGIS Dashboards
-- Data collection: KoboToolbox, Ona Data, Google Forms
+- Geo-registries: [GeoPrism Registry](https://geoprismregistry.com/)
+- GIS: [QGIS](https://qgis.org/), [AccessMod](https://www.accessmod.org/)
+- Dashboards: [Data Studio](https://datastudio.google.com/), [Grafana Dashboards](https://grafana.com/grafana/dashboards/), [ArcGIS Dashboards](https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview)
+- Data collection: [KoboToolbox](https://www.kobotoolbox.org/), Ona Data, Google Forms
 - Health information systems: DHIS2, mSupply
