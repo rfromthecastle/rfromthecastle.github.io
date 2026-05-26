@@ -1,11 +1,16 @@
 @import "minimal-mistakes";
 
-/* Custom fonts */
-
-body {
+body,
+input,
+button,
+select,
+textarea {
   font-family: "Bahnschrift", "Segoe UI", sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.page__title,
+.archive__item-title {
   font-family: "Bahnschrift", "Segoe UI", sans-serif;
 }
