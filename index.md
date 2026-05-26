@@ -20,7 +20,7 @@ author_profile: true
 <ul>
   <li>
     <strong>Geo-registries:</strong>
-    <a href="https://github.com/terraframe/geoprism-registry"
+    <a href="https://geoprismregistry.com"
        target="_blank"
        rel="noopener noreferrer">
        GeoPrism Registry
@@ -43,17 +43,17 @@ author_profile: true
 
   <li>
     <strong>Dashboards:</strong>
-    <a href="https://lookerstudio.google.com/"
+    <a href="https://datastudio.google.com/"
        target="_blank"
        rel="noopener noreferrer">
-       Looker Studio
+       Data Studio
     </a>,
-    <a href="https://grafana.com/grafana/"
+    <a href="http://grafana.com/grafana/dashboards/"
        target="_blank"
        rel="noopener noreferrer">
        Grafana Dashboards
     </a>,
-    <a href="https://www.arcgis.com/apps/dashboards/"
+    <a href="https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/overview"
        target="_blank"
        rel="noopener noreferrer">
        ArcGIS Dashboards
