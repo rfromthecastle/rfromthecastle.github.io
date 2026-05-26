@@ -1,0 +1,27 @@
+title: Rica Duchateau
+email: rica.duchateau@gmail.com
+description: >-
+  GIS & Digital Health Specialist
+
+url: "https://rfromthecastle.github.io"
+repository: "rfromthecastle/rfromthecastle.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default"
+
+author:
+  name: "Rica Duchateau"
+  avatar: "/assets/images/profile.jpg"
+  bio: "GIS & Digital Health Specialist"
+  location: "Belgium"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rfromthecastle"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rica-duchateau/"
