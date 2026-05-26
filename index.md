@@ -3,9 +3,7 @@ layout: home
 author_profile: true
 ---
 
-# GIS & Digital Health Specialist
-
-I work at the intersection of geospatial data, health systems, dashboards, and operational decision-making.
+GIS, data management and dashboards for public health
 
 ## Featured projects
 
