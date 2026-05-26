@@ -3,17 +3,17 @@ layout: home
 author_profile: true
 ---
 
-# GIS, data management and dashboards for public health
+<h1>GIS, data management and dashboards for public health</h1>
 
-## What can I help you with?
+<h2>What can I help you with?</h2>
 
-- Geo-registry implementation and master list development
-- Dashboard development
-- Data collection and analysis
-- Physical accessibility analyses
-- Health information systems
-
-## What tools do I know quite a bit about?
+<ul>
+    <li>Geo-registry implementation and master list development</li>
+    <li>Dashboard development</li>
+    <li>Data collection and analysis</li>
+    <li>Physical accessibility analyses</li>
+    <li>Health information systems</li>
+</ul>
 
 <h2>What tools do I know quite a bit about?</h2>
 
