@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-GIS, data management and dashboards for public health
+# GIS, data management and dashboards for public health
 
 ## What can I help you with?
 
